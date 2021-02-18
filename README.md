@@ -14,6 +14,6 @@ FkNN: Fuzzy k-nearest neighbor algorithm, runned on the same datasets (indicatin
 ## Neural Networks
 ANN-1: simple plot <br>
 
-ANN-2: single-layer neural network architecture used for regression on 2d dataset points (linear regression) <br>
+ANN-2: single-layer neural network architecture with back-propagation, used for regression on 2d dataset points (linear regression) <br>
 
-ANN-3: multi-layer neural network (1 hidden layer) architecture used for regression on 2d dataset points (non-linear regression) <br>
+ANN-3: multi-layer neural network (1 hidden layer) architecture with back-propagation, used for regression on 2d dataset points (non-linear regression) <br>
